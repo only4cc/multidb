@@ -1,0 +1,7 @@
+{
+    // Utilizar IntelliSense para aprender acerca de los posibles atributos.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos 
+    // Para más información, visite: "extension.perl-debug.provideInitialConfigurations"
+    "version": "0.2.0",
+    "configurations": "extension.perl-debug.provideInitialConfigurations"
+}

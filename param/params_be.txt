@@ -1,0 +1,14 @@
+#servername, instance, dbname, user, youknow :), script_name, file_output
+
+BE0SQLP-V057A.e-contact.cl,BE0SQLP-V057A,DBA,svc-sqlsrv,Qq123456, .\scr\script.sql, .\out\BE0SQLP-V057A.out
+BE0SQLP-V057A.e-contact.cl,BE0SQLP-V057A,DBA,BE0SQLP-V057A\svc-sqlsrv,Qq123456, .\scr\script.sql, .\out\BE0SQLP-V057A.out
+BE0SQLP-V057A.e-contact.cl,BE0SQLP-V057A,DBA,sa,652wlsFFe8Tly6iDd7ec, .\scr\script.sql, .\out\BE0SQLP-V057A.out
+
+#BE0SQLP-V057A.e-contact.cl,BE0SQLP-V057A,DBA,svc-sqlsrv,"Qq123456", .\scr\script.sql, .\out\BE0SQLP-V057A.out
+
+
+#BE0SQLP-V058A.e-contact.cl,BE0SQLP-V058A,DBA,svc-sqlsrv,"Qq123456", .\scr\script.sql, .\out\BE0SQLP-V058A.out
+#BE0SQLP-V059A.e-contact.cl,BE0SQLP-V059A,DBA,svc-sqlsrv,"Qq123456", .\scr\script.sql, .\out\BE0SQLP-V059A.out
+#BE0SQLP-V060A.e-contact.cl,BE0SQLP-V060A,DBA,svc-sqlsrv,"Qq123456", .\scr\script.sql, .\out\BE0SQLP-V060A.out
+#BE0SQLP-V061A.e-contact.cl,BE0SQLP-V061A,DBA,svc-sqlsrv,"Qq123456", .\scr\script.sql, .\out\BE0SQLP-V061A.out
+#BE0SQLP-V062A.e-contact.cl,BE0SQLP-V062A,DBA,svc-sqlsrv,"Qq123456", .\scr\script.sql, .\out\BE0SQLP-V062A.out

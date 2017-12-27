@@ -1,0 +1,13 @@
+#servername, instance, dbname, user, youknow :), script_name, file_output
+
+lab-cg4.e-contact.cl, LAB-CG4, master, sa, password1*, .\scr\script.sql, .\out\script_demo_LABCG4.out
+lab-cg4.e-contact.cl, LAB-CG4, DBA, sa, password1*, .\scr\script_audit.sql, .\out\script_audit_LAB-CG4.out
+lab-cg4.e-contact.cl, LAB-CG4, master, cgonzalez@e-contact.cl, Oscarito153*, .\scr\script.sql, .\out\script_demo_NUEVO.out
+
+#SQL-CLARO-62.e-contact.cl, master, sa, Aa123456, script.sql, salida.txt,
+#192.168.160.224, master, sa, Aa123456, script.sql, salida.txt,
+
+#s = winrm.Session('BE0SQLP-V057A.e-contact.cl', auth=('BE0SQLP-V057A\svc-sqlsrv', 'Qq123456'))
+#r = s.run_cmd('ipconfig', ['/all'])
+#r.status_code
+
