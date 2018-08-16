@@ -1,0 +1,5 @@
+S1-SOPORTE-02, .\MSSQL12.MSSQLSERVER, DBA, callcenter\svc-cluster, nouser, .\scr\sp_Blitz.sql, C:\e-contact\admin\data\out\blitz_S1-soporte-s2.out
+
+
+
+

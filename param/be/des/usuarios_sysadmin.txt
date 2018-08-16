@@ -1,0 +1,3 @@
+BE0SQLD-V028C, BE0SQLD-V028C, master, callcenter\svc-cluster, nouser, .\scr\usuarios_sysadmin.sql, C:\e-contact\admin\data\be\des\out\usuarios_sysadmin\usuarios_BE0SQLD-V028C.out
+
+  

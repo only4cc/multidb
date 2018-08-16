@@ -1,0 +1,7 @@
+BE0SQLP-V057C, BE0SQLP-V057C, master, callcenter\svc-cluster, nouser, .\scr\fragment.sql, C:\e-contact\admin\data\be\prod\out\fragment\fragment_BE0SQLP-V057C.out
+BE0SQLP-V058C, BE0SQLP-V058C, master, callcenter\svc-cluster, nouser, .\scr\fragment.sql, C:\e-contact\admin\data\be\prod\out\fragment\fragment_BE0SQLP-V058C.out
+BE0SQLP-V059C, BE0SQLP-V059C, master, callcenter\svc-cluster, nouser, .\scr\fragment.sql, C:\e-contact\admin\data\be\prod\out\fragment\fragment_BE0SQLP-V059C.out
+BE0SQLP-V060C, BE0SQLP-V060C, master, callcenter\svc-cluster, nouser, .\scr\fragment.sql, C:\e-contact\admin\data\be\prod\out\fragment\fragment_BE0SQLP-V060C.out
+BE0SQLP-V061C, BE0SQLP-V061C, master, callcenter\svc-cluster, nouser, .\scr\fragment.sql, C:\e-contact\admin\data\be\prod\out\fragment\fragment_BE0SQLP-V061C.out
+BE0SQLP-V062C, BE0SQLP-V062C, master, callcenter\svc-cluster, nouser, .\scr\fragment.sql, C:\e-contact\admin\data\be\prod\out\fragment\fragment_BE0SQLP-V062C.out
+

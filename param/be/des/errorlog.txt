@@ -1,0 +1,7 @@
+BE0SQLD-V028C, BE0SQLD-V028C, master, callcenter\svc-cluster, nouser, .\scr\errorlog.sql, C:\e-contact\admin\data\be\des\out\errorlog\errorlog_BE0SQLD-V028C.out
+
+
+
+
+
+

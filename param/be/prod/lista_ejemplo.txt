@@ -1,0 +1,4 @@
+host1, user1, pass1, script.sql, script.log,
+host2, user2, pass2, script.sql, script.log,
+host3, user3, pass3, script.sql, script.log,
+

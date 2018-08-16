@@ -11,7 +11,7 @@ use strict;
 use warnings;
 use Template;
 
-my $DEBUG = 1;
+my $DEBUG = 0;
 
 my $listname = shift || '.\\param\params.txt';
 my $tplname  = shift || '.\\tpl\plantilla.tpl';
@@ -22,7 +22,7 @@ my $template = Template->new();
 	
 open (my $fh, "$listname") or die "Error: No se pudo leer archivo de parametros $listname\n";
 
-print "ejecucion usando la plantilla $tplname y parametros desde $listname ...\n"; 
+print "ejecucion usando la plantilla $tplname y parametros desde $listname ...\n" if $DEBUG; 
 my $l;
 my $linea = 1;
 while ( $l=<$fh> ) {

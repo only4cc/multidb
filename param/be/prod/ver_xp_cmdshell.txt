@@ -1,0 +1,7 @@
+BE0SQLP-V057C, BE0SQLP-V057C, master, callcenter\svc-cluster, nouser, .\scr\ver_xp_cmdshell.sql, C:\e-contact\admin\data\be\prod\out\ver_xp_cmdshell\ver_xp_cmdshell_BE0SQLR-V177C.out
+BE0SQLP-V058C, BE0SQLP-V058C, master, callcenter\svc-cluster, nouser, .\scr\ver_xp_cmdshell.sql, C:\e-contact\admin\data\be\prod\out\ver_xp_cmdshell\ver_xp_cmdshell_BE0SQLR-V178C.out
+BE0SQLP-V059C, BE0SQLP-V059C, master, callcenter\svc-cluster, nouser, .\scr\ver_xp_cmdshell.sql, C:\e-contact\admin\data\be\prod\out\ver_xp_cmdshell\ver_xp_cmdshell_BE0SQLR-V179C.out
+BE0SQLP-V060C, BE0SQLP-V060C, master, callcenter\svc-cluster, nouser, .\scr\ver_xp_cmdshell.sql, C:\e-contact\admin\data\be\prod\out\ver_xp_cmdshell\ver_xp_cmdshell_BE0SQLR-V180C.out
+BE0SQLP-V061C, BE0SQLP-V061C, master, callcenter\svc-cluster, nouser, .\scr\ver_xp_cmdshell.sql, C:\e-contact\admin\data\be\prod\out\ver_xp_cmdshell\ver_xp_cmdshell_BE0SQLR-V181C.out
+BE0SQLP-V062C, BE0SQLP-V062C, master, callcenter\svc-cluster, nouser, .\scr\ver_xp_cmdshell.sql, C:\e-contact\admin\data\be\prod\out\ver_xp_cmdshell\ver_xp_cmdshell_BE0SQLR-V182C.out
+

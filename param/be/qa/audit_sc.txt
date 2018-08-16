@@ -1,0 +1,15 @@
+S1-SQLNOD01-VTR, S1-SQLNOD01-VTR\SQLNOD01, master, callcenter\svc-cluster, nouser, .\scr\audit_sc.sql,  C:\e-contact\admin\data\out\audit\audit_sc_S1-SQLNOD01.out
+S1-SQLNOD02-VTR, S1-SQLNOD02-VTR\SQLNOD02, master, callcenter\svc-cluster, nouser, .\scr\audit_sc.sql,  C:\e-contact\admin\data\out\audit\audit_sc_S1-SQLNOD02.out
+S1-SQLNOD03-VTR, S1-SQLNOD03-VTR\SQLNOD03, master, callcenter\svc-cluster, nouser, .\scr\audit_sc.sql,  C:\e-contact\admin\data\out\audit\audit_sc_S1-SQLNOD03.out
+S1-SQLNOD04-VTR, S1-SQLNOD04-VTR\SQLNOD04, master, callcenter\svc-cluster, nouser, .\scr\audit_sc.sql,  C:\e-contact\admin\data\out\audit\audit_sc_S1-SQLNOD04.out
+S1-SQLNOD05-VTR, S1-SQLNOD05-VTR\SQLNOD05, master, callcenter\svc-cluster, nouser, .\scr\audit_sc.sql,  C:\e-contact\admin\data\out\audit\audit_sc_S1-SQLNOD05.out
+S1-SQLNOD06-VTR, S1-SQLNOD06-VTR\SQLNOD06, master, callcenter\svc-cluster, nouser, .\scr\audit_sc.sql,  C:\e-contact\admin\data\out\audit\audit_sc_S1-SQLNOD06.out
+#S1-SQLNOD07-VTR, S1-SQLNOD07-VTR\SQLNOD07, master, callcenter\svc-cluster, nouser, .\scr\audit_sc.sql, C:\e-contact\admin\data\out\audit\audit_sc_S1-SQLNOD07.out
+#S1-SQLNOD08-VTR, S1-SQLNOD08-VTR\SQLNOD08, master, callcenter\svc-cluster, nouser, .\scr\audit_sc.sql, C:\e-contact\admin\data\out\audit\audit_sc_S1-SQLNOD08.out
+#S1-SQLNOD09-VTR, S1-SQLNOD09-VTR\SQLNOD09, master, callcenter\svc-cluster, nouser, .\scr\audit_sc.sql, C:\e-contact\admin\data\out\audit\audit_sc_S1-SQLNOD09.out
+                                                                                                                       
+S1-ODSNOD01-VTR, S1-ODSNOD01-VTR\ODSNOD01, master, callcenter\svc-cluster, nouser, .\scr\audit_sc.sql,  C:\e-contact\admin\data\out\audit\audit_sc_S1-ODSNOD01.out
+S1-ODSNOD02-VTR, S1-ODSNOD02-VTR\ODSNOD02, master, callcenter\svc-cluster, nouser, .\scr\audit_sc.sql,  C:\e-contact\admin\data\out\audit\audit_sc_S1-ODSNOD02.out
+S1-ODSNOD03-VTR, S1-ODSNOD03-VTR\ODSNOD03, master, callcenter\svc-cluster, nouser, .\scr\audit_sc.sql,  C:\e-contact\admin\data\out\audit\audit_sc_S1-ODSNOD03.out
+
+

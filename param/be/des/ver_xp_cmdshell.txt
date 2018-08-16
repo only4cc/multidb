@@ -1,0 +1,2 @@
+BE0SQLD-V028C, BE0SQLD-V028C, master, callcenter\svc-cluster, nouser, .\scr\ver_xp_cmdshell.sql, C:\e-contact\admin\data\be\des\out\ver_xp_cmdshell\ver_xp_cmdshell_BE0SQLD-V028C.out
+

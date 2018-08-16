@@ -1,0 +1,6 @@
+BE0SQLD-V028C, BE0SQLD-V028C, master, callcenter\svc-cluster, nouser, .\scr\espacios.sql, C:\e-contact\admin\data\be\des\out\espacios\espacios_BE0SQLD-V028C.out
+
+
+
+
+
